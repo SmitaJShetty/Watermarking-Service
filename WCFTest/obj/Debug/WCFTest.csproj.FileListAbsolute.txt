@@ -1,0 +1,14 @@
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\WCFTest.exe.config
+C:\D Drive\Test Projects\WCFTest\WCFTest\obj\Debug\WCFTest.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\WCFTest.exe
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\WCFTest.pdb
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\Castle.Core.dll
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\Castle.Core.xml
+C:\D Drive\Test Projects\WCFTest\WCFTest\obj\Debug\WCFTest.exe
+C:\D Drive\Test Projects\WCFTest\WCFTest\obj\Debug\WCFTest.pdb
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\FileOperations.dll
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\Ninject.dll
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\Ninject.Web.Common.dll
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\FileOperations.pdb
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\Ninject.xml
+C:\D Drive\Test Projects\WCFTest\WCFTest\bin\Debug\Ninject.Web.Common.xml

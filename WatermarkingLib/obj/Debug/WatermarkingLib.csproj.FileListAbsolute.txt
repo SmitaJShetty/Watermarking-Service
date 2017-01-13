@@ -1,0 +1,7 @@
+C:\D Drive\Test Projects\WCFTest\WatermarkingLib\bin\Debug\WatermarkingLib.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingLib\bin\Debug\WatermarkingLib.pdb
+C:\D Drive\Test Projects\WCFTest\WatermarkingLib\bin\Debug\itextsharp.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingLib\bin\Debug\itextsharp.xml
+C:\D Drive\Test Projects\WCFTest\WatermarkingLib\obj\Debug\WatermarkingLib.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingLib\obj\Debug\WatermarkingLib.pdb
+C:\D Drive\Test Projects\WCFTest\WatermarkingLib\obj\Debug\WatermarkingLib.csprojResolveAssemblyReference.cache

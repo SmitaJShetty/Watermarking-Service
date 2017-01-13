@@ -1,0 +1,10 @@
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\bin\Debug\WCFTestClient_test.dll.config
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\bin\Debug\WCFTestClient_test.dll
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\bin\Debug\WCFTestClient_test.pdb
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\bin\Debug\WCFTest.exe
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\bin\Debug\FileOperations.dll
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\bin\Debug\WCFTest.pdb
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\bin\Debug\FileOperations.pdb
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\obj\Debug\WCFWatermarkingClient_test.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\obj\Debug\WCFTestClient_test.dll
+C:\D Drive\Test Projects\WCFTest\WCFTestClient_test\obj\Debug\WCFTestClient_test.pdb

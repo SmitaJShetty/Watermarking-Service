@@ -1,0 +1,5 @@
+C:\D Drive\Test Projects\WCFTest\FileOperations\bin\Debug\FileOperations.dll
+C:\D Drive\Test Projects\WCFTest\FileOperations\bin\Debug\FileOperations.pdb
+C:\D Drive\Test Projects\WCFTest\FileOperations\obj\Debug\FileOperations.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\WCFTest\FileOperations\obj\Debug\FileOperations.dll
+C:\D Drive\Test Projects\WCFTest\FileOperations\obj\Debug\FileOperations.pdb

@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFWatermarkingClient", "WCFTest\WCFWatermarkingClient.csproj", "{B6AA19C9-5FFD-4760-8113-8D09EEBC7787}"
+	ProjectSection(ProjectDependencies) = postProject
+		{21FEA251-0203-45E9-8D75-B566BD5AFCB8} = {21FEA251-0203-45E9-8D75-B566BD5AFCB8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkingService", "WatermarkingService\WatermarkingService.csproj", "{21FEA251-0203-45E9-8D75-B566BD5AFCB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterMarkService_Test", "WaterMarkService_Test\WaterMarkService_Test.csproj", "{67E3F947-3C9E-456E-980A-9F0F3ACD238B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkingLib", "WatermarkingLib\WatermarkingLib.csproj", "{A945DD22-B66F-4E02-89E3-BC20643DC69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOperations", "FileOperations\FileOperations.csproj", "{AB83C48A-197B-4A90-A180-863BA3F1CC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOperations_Test", "FileOperations_Test\FileOperations_Test.csproj", "{355DA806-4FDF-4BF3-A760-71C4FEBC8BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFWatermarkingClient_test", "WCFTestClient_test\WCFWatermarkingClient_test.csproj", "{6D776C03-F7F9-418A-BA10-35C48DE47980}"
+	ProjectSection(ProjectDependencies) = postProject
+		{21FEA251-0203-45E9-8D75-B566BD5AFCB8} = {21FEA251-0203-45E9-8D75-B566BD5AFCB8}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6AA19C9-5FFD-4760-8113-8D09EEBC7787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AA19C9-5FFD-4760-8113-8D09EEBC7787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AA19C9-5FFD-4760-8113-8D09EEBC7787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AA19C9-5FFD-4760-8113-8D09EEBC7787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FEA251-0203-45E9-8D75-B566BD5AFCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FEA251-0203-45E9-8D75-B566BD5AFCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FEA251-0203-45E9-8D75-B566BD5AFCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FEA251-0203-45E9-8D75-B566BD5AFCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E3F947-3C9E-456E-980A-9F0F3ACD238B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E3F947-3C9E-456E-980A-9F0F3ACD238B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E3F947-3C9E-456E-980A-9F0F3ACD238B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E3F947-3C9E-456E-980A-9F0F3ACD238B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A945DD22-B66F-4E02-89E3-BC20643DC69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A945DD22-B66F-4E02-89E3-BC20643DC69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A945DD22-B66F-4E02-89E3-BC20643DC69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A945DD22-B66F-4E02-89E3-BC20643DC69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB83C48A-197B-4A90-A180-863BA3F1CC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB83C48A-197B-4A90-A180-863BA3F1CC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB83C48A-197B-4A90-A180-863BA3F1CC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB83C48A-197B-4A90-A180-863BA3F1CC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355DA806-4FDF-4BF3-A760-71C4FEBC8BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355DA806-4FDF-4BF3-A760-71C4FEBC8BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355DA806-4FDF-4BF3-A760-71C4FEBC8BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355DA806-4FDF-4BF3-A760-71C4FEBC8BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D776C03-F7F9-418A-BA10-35C48DE47980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D776C03-F7F9-418A-BA10-35C48DE47980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D776C03-F7F9-418A-BA10-35C48DE47980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D776C03-F7F9-418A-BA10-35C48DE47980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

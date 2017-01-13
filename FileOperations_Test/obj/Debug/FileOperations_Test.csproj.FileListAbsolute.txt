@@ -1,0 +1,11 @@
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\obj\Debug\FileOperations_Test.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\bin\Debug\FileOperations_Test.dll
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\bin\Debug\FileOperations_Test.pdb
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\bin\Debug\Castle.Core.dll
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\bin\Debug\FileOperations.dll
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\bin\Debug\Moq.dll
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\bin\Debug\FileOperations.pdb
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\bin\Debug\Castle.Core.xml
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\bin\Debug\Moq.xml
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\obj\Debug\FileOperations_Test.dll
+C:\D Drive\Test Projects\WCFTest\FileOperations_Test\obj\Debug\FileOperations_Test.pdb

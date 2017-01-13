@@ -1,0 +1,260 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   FileOperations/FileOperations.csproj
+#	new file:   FileOperations/FileUtility.cs
+#	new file:   FileOperations/Properties/AssemblyInfo.cs
+#	new file:   FileOperations/bin/Debug/FileOperations.dll
+#	new file:   FileOperations/bin/Debug/FileOperations.pdb
+#	new file:   FileOperations/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   FileOperations/obj/Debug/FileOperations.csproj.FileListAbsolute.txt
+#	new file:   FileOperations/obj/Debug/FileOperations.csprojResolveAssemblyReference.cache
+#	new file:   FileOperations/obj/Debug/FileOperations.dll
+#	new file:   FileOperations/obj/Debug/FileOperations.pdb
+#	new file:   FileOperations/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   FileOperations/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   FileOperations/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   FileOperations_Test/FileOperations_Test.csproj
+#	new file:   FileOperations_Test/FileUtility_test.cs
+#	new file:   FileOperations_Test/Properties/AssemblyInfo.cs
+#	new file:   FileOperations_Test/bin/Debug/Castle.Core.dll
+#	new file:   FileOperations_Test/bin/Debug/Castle.Core.xml
+#	new file:   FileOperations_Test/bin/Debug/FileOperations.dll
+#	new file:   FileOperations_Test/bin/Debug/FileOperations.pdb
+#	new file:   FileOperations_Test/bin/Debug/FileOperations_Test.dll
+#	new file:   FileOperations_Test/bin/Debug/FileOperations_Test.pdb
+#	new file:   FileOperations_Test/bin/Debug/Moq.dll
+#	new file:   FileOperations_Test/bin/Debug/Moq.xml
+#	new file:   FileOperations_Test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   FileOperations_Test/obj/Debug/FileOperations_Test.csproj.FileListAbsolute.txt
+#	new file:   FileOperations_Test/obj/Debug/FileOperations_Test.csprojResolveAssemblyReference.cache
+#	new file:   FileOperations_Test/obj/Debug/FileOperations_Test.dll
+#	new file:   FileOperations_Test/obj/Debug/FileOperations_Test.pdb
+#	new file:   FileOperations_Test/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   FileOperations_Test/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   FileOperations_Test/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   FileOperations_Test/packages.config
+#	new file:   WCFTest/App.config
+#	new file:   WCFTest/Program.cs
+#	new file:   WCFTest/Properties/AssemblyInfo.cs
+#	new file:   WCFTest/Service References/WatermarkingService/Reference.cs
+#	new file:   WCFTest/Service References/WatermarkingService/Reference.svcmap
+#	new file:   WCFTest/Service References/WatermarkingService/WaterMarkService.disco
+#	new file:   WCFTest/Service References/WatermarkingService/WaterMarkService.wsdl
+#	new file:   WCFTest/Service References/WatermarkingService/WaterMarkService.xsd
+#	new file:   WCFTest/Service References/WatermarkingService/WaterMarkService1.xsd
+#	new file:   WCFTest/Service References/WatermarkingService/configuration.svcinfo
+#	new file:   WCFTest/Service References/WatermarkingService/configuration91.svcinfo
+#	new file:   WCFTest/WCFWatermarkingClient.csproj
+#	new file:   WCFTest/bin/Debug/Castle.Core.dll
+#	new file:   WCFTest/bin/Debug/Castle.Core.xml
+#	new file:   WCFTest/bin/Debug/FileOperations.dll
+#	new file:   WCFTest/bin/Debug/FileOperations.pdb
+#	new file:   WCFTest/bin/Debug/Ninject.Web.Common.dll
+#	new file:   WCFTest/bin/Debug/Ninject.Web.Common.xml
+#	new file:   WCFTest/bin/Debug/Ninject.dll
+#	new file:   WCFTest/bin/Debug/Ninject.xml
+#	new file:   WCFTest/bin/Debug/WCFTest.exe
+#	new file:   WCFTest/bin/Debug/WCFTest.exe.config
+#	new file:   WCFTest/bin/Debug/WCFTest.pdb
+#	new file:   WCFTest/bin/Debug/WCFTest.vshost.exe
+#	new file:   WCFTest/bin/Debug/WCFTest.vshost.exe.config
+#	new file:   WCFTest/bin/Debug/WCFTest.vshost.exe.manifest
+#	new file:   WCFTest/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   WCFTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   WCFTest/obj/Debug/TempPE/Service References.WatermarkingService.Reference.cs.dll
+#	new file:   WCFTest/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   WCFTest/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   WCFTest/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   WCFTest/obj/Debug/WCFTest.csproj.FileListAbsolute.txt
+#	new file:   WCFTest/obj/Debug/WCFTest.csprojResolveAssemblyReference.cache
+#	new file:   WCFTest/obj/Debug/WCFTest.exe
+#	new file:   WCFTest/obj/Debug/WCFTest.pdb
+#	new file:   WCFTest/packages.config
+#	new file:   WCFTestClient_test/Properties/AssemblyInfo.cs
+#	new file:   WCFTestClient_test/WCFTestProgram_test.cs
+#	new file:   WCFTestClient_test/WCFWatermarkingClient_test.csproj
+#	new file:   WCFTestClient_test/app.config
+#	new file:   WCFTestClient_test/bin/Debug/FileOperations.dll
+#	new file:   WCFTestClient_test/bin/Debug/FileOperations.pdb
+#	new file:   WCFTestClient_test/bin/Debug/WCFTest.exe
+#	new file:   WCFTestClient_test/bin/Debug/WCFTest.pdb
+#	new file:   WCFTestClient_test/bin/Debug/WCFTestClient_test.dll
+#	new file:   WCFTestClient_test/bin/Debug/WCFTestClient_test.dll.config
+#	new file:   WCFTestClient_test/bin/Debug/WCFTestClient_test.pdb
+#	new file:   WCFTestClient_test/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   WCFTestClient_test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   WCFTestClient_test/obj/Debug/TempPE/Service References.WMarkSvc.Reference.cs.dll
+#	new file:   WCFTestClient_test/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   WCFTestClient_test/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   WCFTestClient_test/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   WCFTestClient_test/obj/Debug/WCFTestClient_test.csproj.FileListAbsolute.txt
+#	new file:   WCFTestClient_test/obj/Debug/WCFTestClient_test.csprojResolveAssemblyReference.cache
+#	new file:   WCFTestClient_test/obj/Debug/WCFTestClient_test.dll
+#	new file:   WCFTestClient_test/obj/Debug/WCFTestClient_test.pdb
+#	new file:   WCFTestClient_test/obj/Debug/WCFWatermarkingClient_test.csproj.FileListAbsolute.txt
+#	new file:   WCFTestClient_test/obj/Debug/WCFWatermarkingClient_test.csprojResolveAssemblyReference.cache
+#	new file:   WCFWaterMarking.sln
+#	new file:   WCFWaterMarking.suo
+#	new file:   WCFWaterMarking.v12.suo
+#	new file:   WaterMarkService_Test/Properties/AssemblyInfo.cs
+#	new file:   WaterMarkService_Test/Service References/WatermarkingSvc/Reference.cs
+#	new file:   WaterMarkService_Test/Service References/WatermarkingSvc/Reference.svcmap
+#	new file:   WaterMarkService_Test/Service References/WatermarkingSvc/WaterMarkService.disco
+#	new file:   WaterMarkService_Test/Service References/WatermarkingSvc/WaterMarkService.wsdl
+#	new file:   WaterMarkService_Test/Service References/WatermarkingSvc/WaterMarkService.xsd
+#	new file:   WaterMarkService_Test/Service References/WatermarkingSvc/WaterMarkService1.xsd
+#	new file:   WaterMarkService_Test/Service References/WatermarkingSvc/configuration.svcinfo
+#	new file:   WaterMarkService_Test/Service References/WatermarkingSvc/configuration91.svcinfo
+#	new file:   WaterMarkService_Test/WaterMarkService_Test.csproj
+#	new file:   WaterMarkService_Test/WatermarkTest.cs
+#	new file:   WaterMarkService_Test/app.config
+#	new file:   WaterMarkService_Test/bin/Debug/Castle.Core.dll
+#	new file:   WaterMarkService_Test/bin/Debug/Castle.Core.xml
+#	new file:   WaterMarkService_Test/bin/Debug/Moq.dll
+#	new file:   WaterMarkService_Test/bin/Debug/Moq.xml
+#	new file:   WaterMarkService_Test/bin/Debug/Ninject.dll
+#	new file:   WaterMarkService_Test/bin/Debug/Ninject.xml
+#	new file:   WaterMarkService_Test/bin/Debug/WaterMarkService_Test.dll
+#	new file:   WaterMarkService_Test/bin/Debug/WaterMarkService_Test.dll.config
+#	new file:   WaterMarkService_Test/bin/Debug/WaterMarkService_Test.pdb
+#	new file:   WaterMarkService_Test/bin/Debug/WatermarkingLib.dll
+#	new file:   WaterMarkService_Test/bin/Debug/WatermarkingLib.pdb
+#	new file:   WaterMarkService_Test/bin/Debug/WatermarkingService.dll
+#	new file:   WaterMarkService_Test/bin/Debug/WatermarkingService.pdb
+#	new file:   WaterMarkService_Test/bin/Debug/itextsharp.dll
+#	new file:   WaterMarkService_Test/bin/Debug/itextsharp.xml
+#	new file:   WaterMarkService_Test/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   WaterMarkService_Test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   WaterMarkService_Test/obj/Debug/TempPE/Service References.WatermarkingSvc.Reference.cs.dll
+#	new file:   WaterMarkService_Test/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   WaterMarkService_Test/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   WaterMarkService_Test/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   WaterMarkService_Test/obj/Debug/WaterMarkService_Test.csproj.FileListAbsolute.txt
+#	new file:   WaterMarkService_Test/obj/Debug/WaterMarkService_Test.csprojResolveAssemblyReference.cache
+#	new file:   WaterMarkService_Test/obj/Debug/WaterMarkService_Test.dll
+#	new file:   WaterMarkService_Test/obj/Debug/WaterMarkService_Test.pdb
+#	new file:   WaterMarkService_Test/packages.config
+#	new file:   WatermarkingLib/Properties/AssemblyInfo.cs
+#	new file:   WatermarkingLib/WatermarkingLib.csproj
+#	new file:   WatermarkingLib/WatermarkingUtility.cs
+#	new file:   WatermarkingLib/bin/Debug/WatermarkingLib.dll
+#	new file:   WatermarkingLib/bin/Debug/WatermarkingLib.pdb
+#	new file:   WatermarkingLib/bin/Debug/itextsharp.dll
+#	new file:   WatermarkingLib/bin/Debug/itextsharp.xml
+#	new file:   WatermarkingLib/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   WatermarkingLib/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   WatermarkingLib/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   WatermarkingLib/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   WatermarkingLib/obj/Debug/WatermarkingLib.csproj.FileListAbsolute.txt
+#	new file:   WatermarkingLib/obj/Debug/WatermarkingLib.csprojResolveAssemblyReference.cache
+#	new file:   WatermarkingLib/obj/Debug/WatermarkingLib.dll
+#	new file:   WatermarkingLib/obj/Debug/WatermarkingLib.pdb
+#	new file:   WatermarkingLib/packages.config
+#	new file:   WatermarkingService/3e2e8643-51e7-4063-af79-d65161d83549Wmdt.e2b
+#	new file:   WatermarkingService/4c295c71-1011-446b-95f2-12293041c9adWmdt.e2b
+#	new file:   WatermarkingService/7c3f151f-dc3e-472e-ab56-69a130500f9eWmdt.e2b
+#	new file:   WatermarkingService/7f3e1154-f325-47b6-a06f-50b74ea6239bWmdt.e2b
+#	new file:   WatermarkingService/IWaterMarkService.cs
+#	new file:   WatermarkingService/NinjectInstanceProvider.cs
+#	new file:   WatermarkingService/NinjectServiceHost.cs
+#	new file:   WatermarkingService/NinjectServiceHostFactory.cs
+#	new file:   WatermarkingService/Properties/AssemblyInfo.cs
+#	new file:   WatermarkingService/WaterMarkService.svc
+#	new file:   WatermarkingService/WaterMarkService.svc.cs
+#	new file:   WatermarkingService/WatermarkingService.csproj
+#	new file:   WatermarkingService/WatermarkingService.csproj.user
+#	new file:   WatermarkingService/Web.Debug.config
+#	new file:   WatermarkingService/Web.Release.config
+#	new file:   WatermarkingService/Web.config
+#	new file:   WatermarkingService/Wmdt.e2b
+#	new file:   WatermarkingService/bin/Ninject.Extensions.Wcf.dll
+#	new file:   WatermarkingService/bin/Ninject.Extensions.Wcf.xml
+#	new file:   WatermarkingService/bin/Ninject.Web.Common.dll
+#	new file:   WatermarkingService/bin/Ninject.Web.Common.xml
+#	new file:   WatermarkingService/bin/Ninject.dll
+#	new file:   WatermarkingService/bin/Ninject.xml
+#	new file:   WatermarkingService/bin/WatermarkingLib.dll
+#	new file:   WatermarkingService/bin/WatermarkingLib.pdb
+#	new file:   WatermarkingService/bin/WatermarkingService.dll
+#	new file:   WatermarkingService/bin/WatermarkingService.dll.config
+#	new file:   WatermarkingService/bin/WatermarkingService.pdb
+#	new file:   WatermarkingService/bin/itextsharp.dll
+#	new file:   WatermarkingService/bin/itextsharp.xml
+#	new file:   WatermarkingService/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   WatermarkingService/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   WatermarkingService/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   WatermarkingService/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   WatermarkingService/obj/Debug/WatermarkingService.csproj.FileListAbsolute.txt
+#	new file:   WatermarkingService/obj/Debug/WatermarkingService.csprojResolveAssemblyReference.cache
+#	new file:   WatermarkingService/obj/Debug/WatermarkingService.dll
+#	new file:   WatermarkingService/obj/Debug/WatermarkingService.pdb
+#	new file:   WatermarkingService/packages.config
+#	new file:   packages/Castle.Core.3.3.3/ASL - Apache Software Foundation License.txt
+#	new file:   packages/Castle.Core.3.3.3/BreakingChanges.txt
+#	new file:   packages/Castle.Core.3.3.3/Castle.Core.3.3.3.nupkg
+#	new file:   packages/Castle.Core.3.3.3/Changes.txt
+#	new file:   packages/Castle.Core.3.3.3/License.txt
+#	new file:   packages/Castle.Core.3.3.3/lib/net35/Castle.Core.dll
+#	new file:   packages/Castle.Core.3.3.3/lib/net35/Castle.Core.xml
+#	new file:   packages/Castle.Core.3.3.3/lib/net40-client/Castle.Core.dll
+#	new file:   packages/Castle.Core.3.3.3/lib/net40-client/Castle.Core.xml
+#	new file:   packages/Castle.Core.3.3.3/lib/net45/Castle.Core.dll
+#	new file:   packages/Castle.Core.3.3.3/lib/net45/Castle.Core.xml
+#	new file:   packages/Castle.Core.3.3.3/lib/sl4/Castle.Core.dll
+#	new file:   packages/Castle.Core.3.3.3/lib/sl4/Castle.Core.xml
+#	new file:   packages/Castle.Core.3.3.3/lib/sl5/Castle.Core.dll
+#	new file:   packages/Castle.Core.3.3.3/lib/sl5/Castle.Core.xml
+#	new file:   packages/Castle.Core.3.3.3/readme.txt
+#	new file:   packages/Moq.4.5.29/Moq.4.5.29.nupkg
+#	new file:   packages/Moq.4.5.29/lib/net45/Moq.dll
+#	new file:   packages/Moq.4.5.29/lib/net45/Moq.xml
+#	new file:   packages/Moq.4.5.30/Moq.4.5.30.nupkg
+#	new file:   packages/Moq.4.5.30/lib/net45/Moq.dll
+#	new file:   packages/Moq.4.5.30/lib/net45/Moq.xml
+#	new file:   packages/Ninject.3.2.0.0/Ninject.3.2.0.0.nupkg
+#	new file:   packages/Ninject.3.2.0.0/lib/net35/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/net35/Ninject.xml
+#	new file:   packages/Ninject.3.2.0.0/lib/net40/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/net40/Ninject.xml
+#	new file:   packages/Ninject.3.2.0.0/lib/net45-full/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/net45-full/Ninject.xml
+#	new file:   packages/Ninject.3.2.0.0/lib/sl2/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/sl2/Ninject.xml
+#	new file:   packages/Ninject.3.2.0.0/lib/sl3-wp/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/sl3-wp/Ninject.xml
+#	new file:   packages/Ninject.3.2.0.0/lib/sl3/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/sl3/Ninject.xml
+#	new file:   packages/Ninject.3.2.0.0/lib/sl4-windowsphone71/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/sl4-windowsphone71/Ninject.xml
+#	new file:   packages/Ninject.3.2.0.0/lib/sl4/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/sl4/Ninject.xml
+#	new file:   packages/Ninject.3.2.0.0/lib/sl5/Ninject.dll
+#	new file:   packages/Ninject.3.2.0.0/lib/sl5/Ninject.xml
+#	new file:   packages/Ninject.Extensions.Wcf.3.2.2.0/Ninject.Extensions.Wcf.3.2.2.0.nupkg
+#	new file:   packages/Ninject.Extensions.Wcf.3.2.2.0/lib/net35-full/Ninject.Extensions.Wcf.dll
+#	new file:   packages/Ninject.Extensions.Wcf.3.2.2.0/lib/net35-full/Ninject.Extensions.Wcf.xml
+#	new file:   packages/Ninject.Extensions.Wcf.3.2.2.0/lib/net40-full/Ninject.Extensions.Wcf.dll
+#	new file:   packages/Ninject.Extensions.Wcf.3.2.2.0/lib/net40-full/Ninject.Extensions.Wcf.xml
+#	new file:   packages/Ninject.Extensions.Wcf.3.2.2.0/lib/net45-full/Ninject.Extensions.Wcf.dll
+#	new file:   packages/Ninject.Extensions.Wcf.3.2.2.0/lib/net45-full/Ninject.Extensions.Wcf.xml
+#	new file:   packages/Ninject.Web.Common.3.2.0.0/Ninject.Web.Common.3.2.0.0.nupkg
+#	new file:   packages/Ninject.Web.Common.3.2.0.0/lib/net35-full/Ninject.Web.Common.dll
+#	new file:   packages/Ninject.Web.Common.3.2.0.0/lib/net35-full/Ninject.Web.Common.xml
+#	new file:   packages/Ninject.Web.Common.3.2.0.0/lib/net40-full/Ninject.Web.Common.dll
+#	new file:   packages/Ninject.Web.Common.3.2.0.0/lib/net40-full/Ninject.Web.Common.xml
+#	new file:   packages/Ninject.Web.Common.3.2.0.0/lib/net45-full/Ninject.Web.Common.dll
+#	new file:   packages/Ninject.Web.Common.3.2.0.0/lib/net45-full/Ninject.Web.Common.xml
+#	new file:   packages/iTextSharp.5.5.10/AGPL.txt
+#	new file:   packages/iTextSharp.5.5.10/iTextSharp.5.5.10.nupkg
+#	new file:   packages/iTextSharp.5.5.10/lib/iTextSharp.xml
+#	new file:   packages/iTextSharp.5.5.10/lib/itextsharp.dll
+#	new file:   packages/iTextSharp.5.5.10/notice.txt
+#	new file:   packages/repositories.config
+#
+

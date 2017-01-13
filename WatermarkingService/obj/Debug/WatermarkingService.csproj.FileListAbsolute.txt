@@ -1,0 +1,16 @@
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\WatermarkingService.dll.config
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\WatermarkingService.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\WatermarkingService.pdb
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\WatermarkingLib.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\itextsharp.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\WatermarkingLib.pdb
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\itextsharp.xml
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\obj\Debug\WatermarkingService.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\obj\Debug\WatermarkingService.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\obj\Debug\WatermarkingService.pdb
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\Ninject.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\Ninject.Extensions.Wcf.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\Ninject.Web.Common.dll
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\Ninject.xml
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\Ninject.Extensions.Wcf.xml
+C:\D Drive\Test Projects\WCFTest\WatermarkingService\bin\Ninject.Web.Common.xml
